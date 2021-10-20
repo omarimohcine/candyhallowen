@@ -1,0 +1,79 @@
+{
+    "Version": "1.0.0",
+    "DayTime": 0,
+    "toolbarInt": 0,
+    "EnableADSOnServer": true,
+    "UseAdsIn_Github": true,
+    "UseAdsIn_files_fm": false,
+    "UseAdsIn_Mediafire": false,
+    "UseAdsIn_jumpshare": false,
+    "UseAdsIn_Firebase": false,
+    "UseAdsIn_MySQl": false,
+    "UseAdsIn_Googledrive": false,
+    "EditorFirebaseFileUrl": "",
+    "EditorGithubFileUrl": "https://raw.githubusercontent.com/omarimohcine/candycup/main/C%3A%5CUsers%5CReadCode.24%5CDesktop%5CNew%20folder%5CEasyAdsJson.json",
+    "EditorJumpShareFileUrl": "",
+    "EditorMediafireFileUrl": "",
+    "Editorfiles_fmFileUrl": "",
+    "Editorfiles_MySQLUrl": "",
+    "EditorGoogledriveFileUrl": "",
+    "EasyAdColony": {
+        "UseEasyAdColony": true,
+        "AppId": "appa5cac8021ede43349f",
+        "BannerZoneId": "vz4dd0f43444654fe2a6",
+        "InterstitialZoneId": "vz259911b5565848c299",
+        "RewardedZoneId": ""
+    },
+    "EasyAdmob": {
+        "UseEasyAdmob": false,
+        "AdmobAppId": "",
+        "RewardedVideoId": "",
+        "InterstitialId": "",
+        "BannerId": ""
+    },
+    "EasyAppLovin": {
+        "UseEasyAppLovin": false,
+        "AppId": ""
+    },
+    "EasyChartboost": {
+        "UseEasyChartboost": false,
+        "ChartboostAppId": "",
+        "ChartboostAppSignature": ""
+    },
+    "EasyFacebook": {
+        "UseEasyFacebook": false,
+        "BannerId": "",
+        "InterstitialId": "",
+        "RewardedVideoId": ""
+    },
+    "EasyHeyzap": {
+        "UseEasyHeyzap": false,
+        "PublisherId": ""
+    },
+    "EasyIronSource": {
+        "UseEasyIronSource": false,
+        "AppKey": "",
+        "BannerAdUnit": "",
+        "InterstitialAdUnit": "",
+        "RewardedVideoAdUnit": ""
+    },
+    "EasyMoPub": {
+        "UseEasyMoPub": false,
+        "BannerAdUnit": "",
+        "InterstitialAdUnit": "",
+        "RewardedVideoAdUnit": ""
+    },
+    "EasyUnityAds": {
+        "UseEasyUnityAds": true,
+        "UnityAdsId": "4413593",
+        "BannerPlacement": "Banner_Android",
+        "VideoAdPlacement": "Interstitial_Android",
+        "RewardedVideoAdPlacement": "Rewarded_Android"
+    },
+    "EasyVungle": {
+        "UseEasyVungle": true,
+        "AppID": "616eb4e89723caedfe8e7100",
+        "RewardedPlacementId": "",
+        "InterstitialPlacementID": "DEFAULTINTER-6554753"
+    }
+}
