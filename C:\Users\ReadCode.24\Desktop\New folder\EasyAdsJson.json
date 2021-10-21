@@ -64,11 +64,11 @@
         "RewardedVideoAdUnit": ""
     },
     "EasyUnityAds": {
-        "UseEasyUnityAds": true,
-        "UnityAdsId": "4413593",
-        "BannerPlacement": "Banner_Android",
-        "VideoAdPlacement": "Interstitial_Android",
-        "RewardedVideoAdPlacement": "Rewarded_Android"
+        "UseEasyUnityAds": false,
+        "UnityAdsId": "",
+        "BannerPlacement": "",
+        "VideoAdPlacement": "",
+        "RewardedVideoAdPlacement": ""
     },
     "EasyVungle": {
         "UseEasyVungle": true,
